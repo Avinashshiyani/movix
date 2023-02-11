@@ -1,5 +1,6 @@
 import axios from "axios";
-import { useSelector, useDispatch } from 'react-redux';
+
+// import { useSelector, useDispatch } from 'react-redux';
 
 const BASE_URL = "https://api.themoviedb.org/3";
 
